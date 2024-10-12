@@ -18,9 +18,9 @@ Chirper is a microblogging platform built with Laravel, React, Inertia, and Tail
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-gray?logo=mysql&style=for-the-badge)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-gray?logo=javascript&style=for-the-badge)
-![React](https://img.shields.io/badge/React-18.3-gray?logo=react&style=for-the-badge)
+![React](https://img.shields.io/badge/React-18.2-gray?logo=react&style=for-the-badge)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-1.0-gray?logo=inertia&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-gray?logo=tailwindcss&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.2-gray?logo=tailwindcss&style=for-the-badge)
 
 ## Visuals
 
