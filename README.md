@@ -76,10 +76,13 @@ To get started with this project, follow the steps below:
 
 4.  **Start the servers**
 
+    -   Backend
+
         ```
         php artisan serve
         ```
 
+    -   Frontend
         ```
         npm run dev
         ```
