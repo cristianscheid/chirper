@@ -6,10 +6,10 @@ Chirper is a microblogging platform built with Laravel, React, Inertia, and Tail
 
 ### Features
 
--   Authentication with secure login and user management
--   CRUD operations for creating, viewing, editing, and deleting posts
--   Email notifications for new Chirps
--   Responsive design optimized for both desktop and mobile devices
+-   Authentication with secure login and user management.
+-   CRUD operations for creating, viewing, editing, and deleting posts.
+-   Email notifications for new Chirps.
+-   Responsive design optimized for both desktop and mobile devices.
 
 ## Built With
 
