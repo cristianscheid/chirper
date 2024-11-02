@@ -37,9 +37,9 @@ class ChirpController extends Controller
         $validated = $request->validate([
             'message' => 'required|string|max:255',
         ]);
- 
+
         $request->user()->chirps()->create($validated);
- 
+
         return redirect(route('chirps.index'));
     }
 
@@ -69,16 +69,16 @@ class ChirpController extends Controller
         $validated = $request->validate([
             'message' => 'required|string|max:255',
         ]);
- 
+
         $chirp->update($validated);
- 
+
         return redirect(route('chirps.index'));
     }
 
     /**
      * Remove the specified resource from storage.
      */
-    public function destroy(Chirp $chirp,): RedirectResponse
+    public function destroy(Chirp $chirp): RedirectResponse
     {
         Gate::authorize('delete', $chirp);
 
