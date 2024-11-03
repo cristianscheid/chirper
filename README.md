@@ -2,7 +2,7 @@
 
 ## Description
 
-Chirper is a microblogging platform built with Laravel, React, and Tailwind CSS, utilizing Inertia.js to provide a seamless, single-page application experience. It allows users to create, view, edit, and delete posts with full authentication, while also featuring notifications for new Chirps, which enhances the interactive user experience. This project was developed as part of the Laravel Bootcamp, showcasing the effective integration of these technologies in a real-world application.
+Chirper is a microblogging platform built with Laravel, React, and Tailwind CSS, leveraging Inertia.js to deliver a seamless single-page application experience. Users can create, view, edit, and delete posts securely, with full authentication. The platform also features notifications for new Chirps, enhancing user interactivity. Developed as part of the Laravel Bootcamp, this project showcases the effective integration of modern web technologies in a real-world application.
 
 ### Features
 
