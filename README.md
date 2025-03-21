@@ -6,21 +6,29 @@ Chirper is a microblogging platform built with Laravel, React, and Tailwind CSS,
 
 ### Features
 
--   Authentication with secure login and user management.
--   CRUD operations for creating, viewing, editing, and deleting posts.
--   Email notifications for new Chirps.
--   Responsive design optimized for both desktop and mobile devices.
+- Authentication with secure login and user management.
+- CRUD operations for creating, viewing, editing, and deleting posts.
+- Email notifications for new Chirps.
+- Responsive design optimized for both desktop and mobile devices.
 
 ## Built With
 
-![PHP](https://img.shields.io/badge/PHP-8.3-gray?logo=php&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-11.18-gray?logo=laravel&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-gray?logo=mysql&style=for-the-badge)
+![PHP][php-badge]
+![Laravel][laravel-badge]
+![MySQL][mysql-badge]
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-gray?logo=javascript&style=for-the-badge)
-![React](https://img.shields.io/badge/React-18.2-gray?logo=react&style=for-the-badge)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-1.0-gray?logo=inertia&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.2-gray?logo=tailwindcss&style=for-the-badge)
+![JavaScript][javascript-badge]
+![React][react-badge]
+![Inertia][inertia-badge]
+![Tailwind CSS][tailwindcss-badge]
+
+[php-badge]: https://img.shields.io/badge/PHP-8.3-gray?style=for-the-badge&logo=php
+[laravel-badge]: https://img.shields.io/badge/Laravel-11.18-gray?style=for-the-badge&logo=laravel
+[mysql-badge]: https://img.shields.io/badge/MySQL-8.0-gray?style=for-the-badge&logo=mysql
+[javascript-badge]: https://img.shields.io/badge/JavaScript-ES6-gray?style=for-the-badge&logo=javascript
+[react-badge]: https://img.shields.io/badge/React-18.2-gray?style=for-the-badge&logo=react
+[inertia-badge]: https://img.shields.io/badge/Inertia.js-1.0-gray?style=for-the-badge&logo=inertia
+[tailwindcss-badge]: https://img.shields.io/badge/TailwindCSS-3.2-gray?style=for-the-badge&logo=tailwindcss
 
 ## Visuals
 
@@ -40,52 +48,52 @@ To get started with this project, follow the steps below:
 
 2.  **Set up backend environment**
 
-    -   Install dependencies:
+    - Install dependencies:
 
-        ```
-        composer install
-        ```
+      ```
+      composer install
+      ```
 
-    -   Set up environment variables:
+    - Set up environment variables:
 
-        ```
-        cp .env.example .env
-        ```
+      ```
+      cp .env.example .env
+      ```
 
-        > Open the `.env` file and configure your database and other settings (you can keep the default settings to use SQLite for simplicity).
+      > Open the `.env` file and configure your database and other settings (you can keep the default settings to use SQLite for simplicity).
 
-    -   Generate application key:
+    - Generate application key:
 
-        ```
-        php artisan key:generate --ansi
-        ```
+      ```
+      php artisan key:generate --ansi
+      ```
 
-    -   Run database migrations:
+    - Run database migrations:
 
-        ```
-        php artisan migrate
-        ```
+      ```
+      php artisan migrate
+      ```
 
 3.  **Set up frontend environment**
 
-    -   Install dependencies:
+    - Install dependencies:
 
-        ```
-        npm install
-        ```
+      ```
+      npm install
+      ```
 
 4.  **Start the servers**
 
-    -   Backend:
+    - Backend:
 
-        ```
-        php artisan serve
-        ```
+      ```
+      php artisan serve
+      ```
 
-    -   Frontend:
-        ```
-        npm run dev
-        ```
+    - Frontend:
+      ```
+      npm run dev
+      ```
 
 ## Usage
 
