@@ -93,10 +93,10 @@ Once the application is running, you can access it at `http://localhost:8000`.
 
 <!-- Badges for 'Built With' section -->
 
-[php-badge]: https://img.shields.io/badge/PHP-8.3-gray?style=for-the-badge&logo=php
-[laravel-badge]: https://img.shields.io/badge/Laravel-11.18-gray?style=for-the-badge&logo=laravel
-[mysql-badge]: https://img.shields.io/badge/MySQL-8.0-gray?style=for-the-badge&logo=mysql
-[javascript-badge]: https://img.shields.io/badge/JavaScript-ES6-gray?style=for-the-badge&logo=javascript
-[react-badge]: https://img.shields.io/badge/React-18.2-gray?style=for-the-badge&logo=react
-[inertia-badge]: https://img.shields.io/badge/Inertia.js-1.0-gray?style=for-the-badge&logo=inertia
-[tailwindcss-badge]: https://img.shields.io/badge/TailwindCSS-3.2-gray?style=for-the-badge&logo=tailwindcss
+[php-badge]: https://img.shields.io/badge/PHP-8.3-gray?style=for-the-badge&logo=php&logoColor=white
+[laravel-badge]: https://img.shields.io/badge/Laravel-11.18-gray?style=for-the-badge&logo=laravel&logoColor=white
+[mysql-badge]: https://img.shields.io/badge/MySQL-8.0-gray?style=for-the-badge&logo=mysql&logoColor=white
+[javascript-badge]: https://img.shields.io/badge/JavaScript-ES6-gray?style=for-the-badge&logo=javascript&logoColor=white
+[react-badge]: https://img.shields.io/badge/React-18.2-gray?style=for-the-badge&logo=react&logoColor=white
+[inertia-badge]: https://img.shields.io/badge/Inertia.js-1.0-gray?style=for-the-badge&logo=inertia&logoColor=white
+[tailwindcss-badge]: https://img.shields.io/badge/TailwindCSS-3.2-gray?style=for-the-badge&logo=tailwindcss&logoColor=white
